@@ -1,0 +1,5 @@
+// IPerson.aidl
+package com.exam.myapp.entity;
+
+// Declare any non-default types here with import statements
+parcelable Person;
